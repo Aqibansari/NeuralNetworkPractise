@@ -1,5 +1,10 @@
 ```python3
 
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this 
+
 """
 MNIST Classification using 2D convolutional neural networks in Keras (Tensorflow)
 @author: Aqib Ansari
