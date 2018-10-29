@@ -1,2 +1,6 @@
 # NeuralNetworkPractise
-Ill be practising on how to implement neural networks. 
+
+Keras
+Image Recognition on a MNIST dataset using a convolutional neural network in Keras
+
+Tensorflow
