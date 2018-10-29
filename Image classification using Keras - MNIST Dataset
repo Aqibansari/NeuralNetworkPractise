@@ -1,4 +1,4 @@
-```python
+```python3
 
 """
 MNIST Classification using 2D convolutional neural networks in Keras (Tensorflow)
