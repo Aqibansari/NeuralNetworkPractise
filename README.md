@@ -1,6 +1,19 @@
 # NeuralNetworkPractise
 
-Keras
-Image Recognition on a MNIST dataset using a convolutional neural network in Keras
+#### Neural Networks implemented from scratch
 
-Tensorflow
+* Basics
+  * Activation function - Sigmoid
+* Optimisation Methods
+  * Regularisation
+  * Dropout
+
+* Simple Neural Network
+  * Logistik Regression
+
+#### Keras
+* Image Recognition on a MNIST dataset using a convolutional neural network in Keras
+
+#### Tensorflow
+* Simple computational graph
+
