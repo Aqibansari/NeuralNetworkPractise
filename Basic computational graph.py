@@ -1,9 +1,3 @@
-```javascript
-function test() {
- console.log("look ma’, no spaces");
-}
-```
-
 """
 Tensorflow 101
 
