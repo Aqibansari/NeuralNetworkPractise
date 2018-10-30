@@ -1,5 +1,5 @@
 """
-MNIST Classification using 2D convolutional neural networks in Keras (Tensorflow)
+MNIST Classification using 2D convolutional neural networks in Keras (Tensorflow as a backend)
 @author: Aqib Ansari
 """
 
