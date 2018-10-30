@@ -7,7 +7,7 @@
 * Optimisation Methods
   * Regularisation
   * Dropout
-
+	
 * Simple Neural Network
   * Logistik Regression
 
